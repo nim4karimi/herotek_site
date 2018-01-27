@@ -1,3 +1,39 @@
-body {
-    direction: rtl;
+@import url('font.css');
+
+header{
+  font-family: 'IRANYekanWeb-Light';
+  text-align: right;
+}
+
+#yekan{
+  font-family: 'IRANYekanWeb';
+}
+
+#yeka{
+  font-family: 'IRANYekanWeb-Light';
+}
+
+#dirrightt{
+  font-family: 'IRANYekanWeb';
+  text-align: right;
+}
+
+.hvr-shadow-radial{
+  display: block; !important;
+}
+
+#topsec{
+  margin-top: 50px;
+
+}
+
+#headtit{
+    margin-top: 5px;
+    width: 800px;
+    font-family: 'IRANYekanWeb';
+    text-align: right;
+}
+
+.hvr-glow{
+    display: grid;
 }
