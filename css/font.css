@@ -1,0 +1,24 @@
+/* Nima Karimi */
+
+/*  Font Section */
+
+@font-face {
+  font-family: 'IRANYekanWeb-Light';
+  src: url('yekan_light/IRANYekanWeb-Light.eot?#iefix') format('embedded-opentype'),
+   url('yekan_light/IRANYekanWeb-Light.woff') format('woff'),
+   url('yekan_light/IRANYekanWeb-Light.ttf')  format('truetype'),
+   url('yekan_light/IRANYekanWeb-Light.svg#IRANYekanWeb-Light') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+
+@font-face {
+  font-family: 'IRANYekanWeb';
+  src: url('yekan/IRANYekanWeb.eot?#iefix') format('embedded-opentype'),
+  url('yekan/IRANYekanWeb.woff') format('woff'),
+  url('yekan/IRANYekanWeb.ttf')  format('truetype'),
+  url('yekan/IRANYekanWeb.svg#IRANYekanWeb') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
